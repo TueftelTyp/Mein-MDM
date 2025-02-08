@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mein MDM", "Mein MDM.csproj", "{C8254B80-D1D9-4E48-97CF-CF1C484922FA}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "MDM-102", "..\GitHub Releases\1.0.2\MDM-102\MDM-102.aiproj", "{DAE904E9-DA36-4477-9DC6-BBA447BF2008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8254B80-D1D9-4E48-97CF-CF1C484922FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8254B80-D1D9-4E48-97CF-CF1C484922FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8254B80-D1D9-4E48-97CF-CF1C484922FA}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8254B80-D1D9-4E48-97CF-CF1C484922FA}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{C8254B80-D1D9-4E48-97CF-CF1C484922FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8254B80-D1D9-4E48-97CF-CF1C484922FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE904E9-DA36-4477-9DC6-BBA447BF2008}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{DAE904E9-DA36-4477-9DC6-BBA447BF2008}.Debug|Any CPU.Build.0 = DefaultBuild
+		{DAE904E9-DA36-4477-9DC6-BBA447BF2008}.DefaultBuild|Any CPU.ActiveCfg = DefaultBuild
+		{DAE904E9-DA36-4477-9DC6-BBA447BF2008}.DefaultBuild|Any CPU.Build.0 = DefaultBuild
+		{DAE904E9-DA36-4477-9DC6-BBA447BF2008}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{DAE904E9-DA36-4477-9DC6-BBA447BF2008}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
